@@ -1,2 +1,2 @@
-# Emacroji
+# emacroji
 Emoji Macros!
